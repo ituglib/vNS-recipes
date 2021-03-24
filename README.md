@@ -1,2 +1,5 @@
 # vNS-recipes
-Virtual NonStop Server Hardware, Software, and Configuration Recipes
+This repo contains recipes associated with Virtual NonStop Server hardware, Software, and configurations.
+The intent is to provide a place where people can share their working (or work in progress) recipes and report issues with existing recipes for subsequent repair.
+
+More to come
