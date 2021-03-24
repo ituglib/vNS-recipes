@@ -16,11 +16,11 @@ information, the first time, for authorizing your contribution.
 The repository is structured around Markdown files and directories. Each topic
 has its own directory:
 
-[Hardware](../blob/master/hardware/INDEX.md) contains hardware recipes.
+[Hardware](hardware/INDEX.md) contains hardware recipes.
 
-[Virtualization Software](../blob/master/software/INDEX.md) contains software recipes.
+[Virtualization Software](software/INDEX.md) contains software recipes.
 
-[Configurations](../blob/master/configuration/INDEX.md) contains configurations other than for VM software.
+[Configurations](configuration/INDEX.md) contains configurations other than for VM software.
 
 Please add your own recipe to each `INDEX.md` file in the directories. Create any
 links you need to create to link your hardware configuration to software and
