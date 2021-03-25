@@ -45,5 +45,5 @@ sole right to not approve any Pull Request for any reason.
 
 # Markdown Information
 
-You can find GitHub markdown information (here)[https://docs.github.com/en/github/writing-on-github].
+You can find GitHub markdown information [here](https://docs.github.com/en/github/writing-on-github).
  
